@@ -5,7 +5,7 @@ Client Management:
 List all clients, Add new clients, Delete clients, Update client information, Find clients by account number
 
 Transaction Management:
-Deposit money to a client's account, Withdraw money from a client's account, View total balances of all clients
+Deposit money, Withdraw money, View total balances of all clients
 
 User Management:
 List all users,
