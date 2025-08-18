@@ -8,7 +8,8 @@ Transaction Management:
 Deposit money to a client's account, Withdraw money from a client's account, View total balances of all clients
 
 User Management:
-List all users, Add new users with specific permissions, Delete users (except the default Admin user), Update user information, 
+List all users,
+Add new users with specific permissions, Delete users, Update user information, 
 Find users by username
 
 Role-Based Access Control:
