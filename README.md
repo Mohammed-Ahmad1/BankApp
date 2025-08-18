@@ -2,20 +2,18 @@ The Bank Management System is a console-based C++ application designed to manage
 
 Features
 Client Management:
-List all clients, Add new clients, Delete clients, Update client information, Find clients by account number
+List all clients, Add new clients, Delete clients, Update client information, Find clients by account number.
 
 Transaction Management:
-Deposit money, Withdraw money, View total balances of all clients
+Deposit money, Withdraw money, View total balances of all clients.
 
 User Management:
-List all users,
-Add new users with specific permissions, Delete users, Update user information, 
-Find users by username
+List all users, Add new users with specific permissions, Delete users, Update user information,Find users by username.
 
 Role-Based Access Control:
 Permissions-based system to restrict access to specific features, 
 Full access or granular permissions for actions like listing clients, transactions, or managing users
 
-Data Persistence:
+Data Storage:
 Stores client data in Clients.txt
 Stores user data in Users.txt
